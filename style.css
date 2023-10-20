@@ -8,6 +8,7 @@ body {
   font-family: Arial;
   color: #27592D;
   background-color: white;
+  transition: all 0.3s ease-in-out;
 }
 
 .dark-mode {
