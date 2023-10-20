@@ -6,6 +6,11 @@
 
 body {
   font-family: Arial;
+  color: #27592D;
+  background-color: white;
+}
+
+.dark-mode {
   color: limegreen;
   background-color: black;
 }
