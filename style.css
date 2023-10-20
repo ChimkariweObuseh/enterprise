@@ -14,7 +14,8 @@ body {
   max-width: 50rem;
   margin: 2rem auto;
   padding: 0px 2rem;
-  border: 3px dashed;
+  border: 1px solid;
+  border-radius: 20px;
 }
 
 .main-heading {
